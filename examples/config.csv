@@ -1,0 +1,7 @@
+package,serde_json
+repository,https://crates.io
+test_mode,false
+version,1.0.154
+output,graph.svg
+max_depth,4
+exclude,""
